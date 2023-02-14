@@ -1,0 +1,34 @@
+Host controller
+     HostName controller.rvkmr
+     User vagrant
+     Port 2222
+     IdentityFile /home/rwagh/vagrant_machines/ubuntu_machines/.vagrant/machines/default/virtualbox/private_key
+Host controller.rvkmr
+     HostName controller.rvkmr
+     User vagrant
+     Port 2222
+     IdentityFile /home/rwagh/vagrant_machines/ubuntu_machines/.vagrant/machines/default/virtualbox/private_key
+
+Host node1
+     HostName node1.rvkmr
+     User vagrant
+     Port 2222
+     IdentityFile /home/rwagh/vagrant_machines/ubuntu_machines/.vagrant/machines/default/virtualbox/private_key
+Host node1.rvkmr
+     HostName node1.rvkmr
+     User vagrant
+     Port 2222
+     IdentityFile /home/rwagh/vagrant_machines/ubuntu_machines/.vagrant/machines/default/virtualbox/private_key
+
+Host node2
+     HostName node2.rvkmr
+     User vagrant
+     Port 2222
+     IdentityFile /home/rwagh/vagrant_machines/ubuntu_machines/.vagrant/machines/default/virtualbox/private_key
+Host controller.rvkmr
+     HostName node2.rvkmr
+     User vagrant
+     Port 2222
+     IdentityFile /home/rwagh/vagrant_machines/ubuntu_machines/.vagrant/machines/default/virtualbox/private_key
+
+
