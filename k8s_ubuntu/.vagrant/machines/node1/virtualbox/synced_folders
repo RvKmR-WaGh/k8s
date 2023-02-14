@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/node1":{"guestpath":"/home/vagrant/node1","hostpath":"/home/rwagh/vagrant_machines/k8s/k8s_ubuntu/node1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/rwagh/vagrant_machines/k8s/k8s_ubuntu","disabled":false,"__vagrantfile":true}}}
